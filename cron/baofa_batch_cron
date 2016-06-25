@@ -1,0 +1,5 @@
+0 0,3,6,9,12,15,18,21 * * * php /www/game_offline/index.php batch/batch_process fetch_game_play  >> /www/game_offline/application/logs/game_play_batch.access.log 2>>  /www/game_offline/application/logs/game_play_batch.error.log
+0 9 * * 1 php /www/game_offline/index.php batch/batch_process process_agent_commision_record  >> /www/game_offline/application/logs/agent_commission_cron.access.log 2>>  /www/game_offline/application/logs/agent_commision_cron.error.log
+
+#Cron Schdule Testing
+*/1 * * * * php /www/game_offline/index.php batch/cli_cron cron_test  >> /www/game_offline/application/logs/cron_test.access.log 2>>  /www/game_offline/application/logs/cron_test.error.log

@@ -1,0 +1,50 @@
+
+.inputBG input{padding-top:4px}
+.jplist-panel input {padding-top:6px}
+
+#bestslot .overlay,a.expand {
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; /* IE 8 */
+filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0); /* IE 7 and olders */
+}
+#bestslot .slotbox.hover .overlay {
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; /* IE 8 */
+filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100); /* IE 7 and olders */
+}
+#bestslot .slotbox.hover .overlay a.expand {
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; /* IE 8 */
+filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100); /* IE 7 and olders */
+}
+
+/*slot list*/
+
+.jplist-grid-view.slot-box:hover > .list-item,
+.jplist-grid-view .list-item-hover
+ {
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; /* IE 8 */
+filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0); /* IE 7 and olders */
+}
+.jplist-grid-view .slot-box:hover > .list-item-hover,
+.jplist-list-view .slot-box:hover > .list-item
+{
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; /* IE 8 */
+filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100); /* IE 7 and olders */
+}
+.img-hover{width: 90%;height: 150px;margin-left:6px}
+
+.copy_menu ul li{border-left: 1px solid #404040;padding:0 10px}
+
+.progress-bar{border:1px solid #333}
+
+.form-container input{height:20px;border:1px solid #C5C1C0;padding-top:5px}
+
+.Mainform-container .row input{height:35px;border:1px solid #333;padding-top:5px}
+.form-container input[type="checkbox"], 
+.form-container input[type="radio"]{height:20px}
+.form-container input[type="checkbox"], 
+.form-container input[type="radio"], 
+.Mainform-container .row input[type="checkbox"], 
+.Mainform-container .row input[type="radio"]{cursor:pointer;border:0;vertical-align:middle}
+.Mainform-container .row input[type="checkbox"]:focus, 
+.Mainform-container .row input[type="radio"]:focus {outline: none}
+
+

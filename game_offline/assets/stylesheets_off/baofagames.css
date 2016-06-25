@@ -1,0 +1,154 @@
+#game_list.jplist{padding-left:18px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
+#preloader{display:none}
+#preloader{height:30px;line-height:30px;margin:0 10px 0 0;float:right}
+.list_content{width:100%;}
+.live_title{float: left;display:inline-block;position: relative;width:100%;}
+
+.jplist .block{width:100%;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
+.jplist .title{font-size:14px;color:#fff}
+.jplist .cate{font-size:11px;color:#999}
+.jplist .date{float:right;color:#440e00}
+.jplist .like,.jplist .keywords{color:#440e00}
+.jplist .price{color:#17161b}
+.jplist .list{margin:20px 0}
+.jplist .list.box{float: left;width:100%;background-color:none;border:0;padding:0;margin:0;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
+.jplist .list .img{width:100px;height: 100px;margin:0;float:left;font-size:0;text-align:center}
+.jplist .list .img{height:100%;width:100%}
+
+.jplist-grid-view .block{float:right;width:600px;margin-top:5px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
+.jplist-grid-view .block p{margin:0;padding:0 15px 5px 0}
+.jplist-grid-view .list-item{margin-top:15px;float:left}
+.jplist-grid-view .list-item-link{font-weight:normal;color:#505050}
+.jplist-grid-view .list-item-link .list-item{transition:all .25s ease 0s;margin-top:0;padding-top:15px}
+.jplist-grid-view .list-item-link:hover .list-item{background:#fcfcfc}
+.jplist .box-header{background:#e0d7c5;border-bottom:1px solid #ccbda1;border-radius:3px 3px 0;margin-top:20px;padding:5px 0}
+
+.jplist-grid-view .list-item .desc{display:none}
+.jplist-grid-view .list-item .block{width:100%;height:60px;text-align:center}
+.jplist-grid-view .list-item .block p{padding:.3em 0 0 0}
+.jplist-grid-view .list-item .block .title{line-height:1.5em;font-size:1em}
+.jplist-grid-view .list-item .date{float:none}
+
+
+.jplist-grid-view .ul-li-list{padding:0;margin:20px 0;list-style:none}
+.jplist-grid-view .ul-li-list .list-item{width:20%;overflow:hidden;margin:20px 0}
+.jplist-grid-view .ul-li-list .list-item .img{width:100%;text-align:center;margin:0}
+.jplist-grid-view .ul-li-list .list-item .desc{display:none}
+.jplist-grid-view .ul-li-list .list-item .block{width:100%;text-align:center}
+.jplist-grid-view .ul-li-list .list-item .block p{padding:.3em 0 0 0}
+.jplist-grid-view .ul-li-list .list-item .block .title{line-height:1.5em;font-size:1em}
+.jplist-grid-view .ul-li-list .list-item .date{float:none}
+
+ /*MG Slot Item*/
+.jplist-grid-view .list-item .img {width: 150px;height: 136px;background-position:2px 0;text-align: left;overflow:hidden}
+.jplist-grid-view .slot-box {width: 150px; height: 203px; text-align: center; float: left; margin: 15px 7px 5px 7px; position: relative; cursor: pointer}
+.jplist-grid-view .list-item {width: 150px; height: 203px; text-align: center; float: left; position: relative; border: 1px solid #555;background:#333;cursor: pointer; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px}
+.jplist-grid-view .list-item:hover {border-color: #c99f3c; color:#c99f3c}
+.jplist-grid-view .list-item a {color: #999999; text-decoration: none}
+.jplist-grid-view .list-item a:hover, .list-item a:active, .list-item a:focus {color: #c99f3c}
+.jplist-grid-view .list-item a:hover img, .list-item a:active img, .list-item a:focus img {border-color: #c99f3c}
+.jplist-grid-view .slot-featured {width: 38px; height: 38px; background: url("/assets/images/star.png") no-repeat; position: absolute; top: -12px; right: -16px;z-index:88888}
+.jplist-grid-view .slot-new {width: 37px; height: 17px; background: url("/assets/images/new_icon.png") no-repeat; position: absolute; top: 4px; left: 0}
+.jplist-grid-view .slot-jackpot {width: 56px; height: 17px;background: url("/assets/images/jackpot_txt.png") no-repeat;position: absolute; top: 109px; left: 47px;color:#fff}
+/*.jplist-grid-view .slot-jackpot {width: 100px; height: 17px;position: absolute; top: 109px; left: 20px;color:#fff}*/
+.jplist-grid-view .slot-jackpot-icon {width:48px; height:18px;background: url("/assets/images/jackpot_icon.png") no-repeat;position: absolute;top:18px;right:2px}
+.jplist-grid-view .slot-mobile {height: 25px;width: 25px;padding-top:2px;position: absolute;right: 4px;top: 100px;background-color: rgba(0,0,0,.5);opacity: 0.8; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px}
+.jplist-grid-view .slot-mobile i{font-size:18px;color:#fff;margin-top:5px}
+.jplist-grid-view .list-txt {display:none}
+/*MG Slot Item - Hover*/
+.jplist-grid-view.slot-box:hover > .list-item {opacity:0}
+.jplist-grid-view .list-item-hover {opacity:0;transition:opacity 0.2s linear;width: 164px;height: 210px;top: 11px;left: -6px;position: absolute;text-align: center;
+background-color:#0f0f0f;
+border: 1px solid #19c2be;cursor: pointer; -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;box-shadow: 0 0 5px #19c2be;z-index: 77777}
+.img-hover{width: 100%;height: 150px;background-position: 100% 0;background-size: 200%;background-repeat: no-repeat}
+
+.jplist-grid-view .slot-box:hover > .list-item-hover {opacity:1}
+.jplist-grid-view .list-item-hover p {color: #19c2be; padding: 8px 0; height:53px;text-align: center;position: absolute;bottom: 0;width: 100%;line-height: 18px}
+.jplist-grid-view .list-item-hover  i {color: #666;font-size:11px}
+ .jplist-grid-view .list-item-hover .slot-jackpot {top: 124px;left:51px}
+ 
+ /*PT Slot Item*/
+.jplist-grid-view .list-item .img.ptslot {width: 190px;height: 133px;background-size: 100%;background-repeat: no-repeat;background-position:0 0}
+.jplist-grid-view .slot-box.ptslot {width: 190px; height: 200px; margin: 20px 7px 0 7px}
+.jplist-grid-view .list-item.ptslot {width: 190px; height: 200px}
+/*PT Slot Item - Hover*/
+.jplist-grid-view .list-item .ptslot.block{height:55px}
+.jplist-grid-view .list-item-hover.ptslot {transition:opacity 0.1s linear;width: 194px;height: 209px;top: 11px;left: -2px;background-position:center 0}
+
+
+ /*MG Slot list-view Item*/
+.jplist-list-view .slot-box {width: 48%; height: 110px; text-align: left; float: left; margin: 13px 8px 0 4px; position: relative; cursor: pointer}
+.jplist-list-view .slot-box.ptslot {height: 94px}
+ .jplist-list-view .list-item .img {width: 140px;height: 110px;float: left;background-position:-10px -16px;text-align: left;overflow:hidden}
+.jplist-list-view .list-item .img.ptslot {width: 140px;height: 88px;margin:3px;background-size: 100%;background-position:0 0}
+.jplist-list-view .list-item {width: 100%; height: 100%; text-align: left; float: left; position: relative; border: 1px solid #666;background:#333;cursor: pointer}
+.jplist-list-view .list-item:hover {border-color: #19c2be; color:#19c2be;background-color:#0f0f0f}
+.jplist-list-view .list-item:hover .title { color:#19c2be}
+.jplist-list-view .list-item a {color: #19c2be; text-decoration: none}
+.jplist-list-view .list-item a:hover, .list-item a:active, .list-item a:focus {color: #c99f3c}
+.jplist-list-view .list-item a:hover img, .list-item a:active img, .list-item a:focus img {border-color: #c99f3c}
+.jplist-list-view .slot-featured {width: 38px; height: 38px; background: url("/assets/images/star.png") no-repeat; position: absolute; top: 0; right: 0}
+.jplist-list-view .slot-new {width: 37px; height: 17px; background: url("/assets/images/new_icon.png") no-repeat; position: absolute; top: 1px; left: 0}
+.jplist-list-view .slot-jackpot {width: 56px; height: 17px;background: url("/assets/images/jackpot_txt.png") no-repeat;position: absolute;top: 93px;left:39px}
+.jplist-list-view .slot-jackpot-icon {width:48px; height:18px;background: url("/assets/images/jackpot_icon.png") no-repeat;position: absolute;bottom:3px;right:3px}
+.jplist-list-view .slot-mobile {height: 26px;width: 25px; text-align: center;padding-top:2px;position: absolute;right: 12px;top: 62px;background-color: rgba(0,0,0,.5);opacity: 0.8; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px}
+.jplist-list-view .slot-mobile i{font-size:18px;color:#fff}
+.jplist-list-view .slot-box:hover > .list-item {opacity:1}
+.jplist-list-view .list-item-hover {display:none}
+
+.jplist-list-view .block{float:right;font-weight:bold;width:245px;margin-top:20px}
+.jplist-list-view .block p{margin:0;padding:0 15px 5px 0}
+.jplist-list-view .list-txt{float:right;font-weight:bold;width:245px;margin-top:2px}
+
+/*core*/
+.jplist-hidden{display:none}
+.jplist-sticky{position:fixed;width:100%;left:0;top:0;z-index:1000;background:#f1f1f1;padding-bottom:5px}
+.sticky-demo .panel>.center{max-width:100%}
+.sticky-demo .jplist-sticky>.center{max-width:95%}
+.no-cssgradients .jplist-panel button:hover{background:#f4f4f4}
+.jplist-panel{color:#27252a}
+.jplist-panel button{float:left;height:30px;box-shadow:0 0 1px #fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #dbdbdb;border-radius:3px;text-shadow:1px 1px 1px #fff;color:#27252a;background:#fff;background:-moz-linear-gradient(top, #fff 0, #efefef 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #efefef));background:-webkit-linear-gradient(top, #fff 0, #efefef 100%);background:-o-linear-gradient(top, #fff 0, #efefef 100%);background:-ms-linear-gradient(top, #fff 0, #efefef 100%);background:linear-gradient(to bottom, #fff 0, #efefef 100%);margin:0 10px 0 0}
+.jplist-panel button:hover{color:#0381bb;background:#f2f2f2;background:-moz-linear-gradient(top, #fafafa 0, #ededed 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #fafafa), color-stop(100%, #ededed));background:-webkit-linear-gradient(top, #fafafa 0, #ededed 100%);background:-o-linear-gradient(top, #fafafa 0, #ededed 100%);background:-ms-linear-gradient(top, #fafafa 0, #ededed 100%);background:linear-gradient(to bottom, #fafafa 0, #ededed 100%)}
+.jplist-panel button.jplist-disabled{background:#e3e3e3;color:#6c6c6c;cursor:default}
+.jplist-panel button.jplist-selected{color:#f03800}
+.jplist-panel input[type="text"]{float:left;height:30px;box-shadow:0 0 1px #fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #dbdbdb;border-radius:3px;text-shadow:1px 1px 1px #fff;color:#27252a;width:150px;text-indent:5px;background:#fff}
+.jplist-panel input[type="checkbox"],.jplist-panel input[type="radio"]{float:left;display:inline-block;height:30px;background:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;color:#27252a}
+.jplist-panel label{float:left;height:30px;line-height:30px;padding:0 5px;display:inline-block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;color:#27252a;cursor:pointer}
+.jplist-icon{float:left;height:30px;box-shadow:0 0 1px #fff;background:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #dbdbdb;border-radius:3px;text-shadow:1px 1px 1px #fff;color:#27252a;display:inline-block;line-height:30px;padding:0 10px;border-right:0}
+.jplist-icon:hover{color:#0381bb}
+.jplist-label{float:left;height:30px;box-shadow:0 0 1px #fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #dbdbdb;border-radius:3px;text-shadow:1px 1px 1px #fff;color:#27252a;line-height:30px;padding:0 10px;margin:10px 10px 0 0;background:#fff;background:-moz-linear-gradient(top, #fff 0, #efefef 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #efefef));background:-webkit-linear-gradient(top, #fff 0, #efefef 100%);background:-o-linear-gradient(top, #fff 0, #efefef 100%);background:-ms-linear-gradient(top, #fff 0, #efefef 100%);background:linear-gradient(to bottom, #fff 0, #efefef 100%)}
+.jplist-selected{color:#ca3f1a}
+.jplist-box{float:left;height:30px;margin:10px 10px 0 0}
+
+.jplist-drop-down{float:left;height:30px;box-shadow:0 0 1px #fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #dbdbdb;border-radius:3px;text-shadow:1px 1px 1px #fff;color:#27252a;width:150px;background:#fff;background:-moz-linear-gradient(top, #fff 0, #efefef 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #efefef));background:-webkit-linear-gradient(top, #fff 0, #efefef 100%);background:-o-linear-gradient(top, #fff 0, #efefef 100%);background:-ms-linear-gradient(top, #fff 0, #efefef 100%);background:linear-gradient(to bottom, #fff 0, #efefef 100%);margin:10px 10px 0 0;position:relative}
+.jplist-drop-down .jplist-dd-panel{float:left;width:150px;height:30px;line-height:30px;overflow:hidden;text-indent:10px;cursor:pointer}
+.jplist-drop-down .jplist-dd-panel:after{content:'\25BC';color:#111;display:inline-block;position:absolute;right:10px;z-index:1000}
+.jplist-drop-down ul{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #dbdbdb;border-radius:0 0 3px 3px;position:relative;top:0;z-index:1000;width:148px;display:none;overflow:hidden;background:#fff;list-style:none;margin:0;padding:0;box-shadow:0 3px 6px #bbb}
+.jplist-drop-down ul li{width:100%;float:left;height:30px;line-height:30px;text-indent:10px;cursor:pointer}
+.jplist-drop-down ul li:hover{background-color:#ececec}
+.jplist-drop-down:hover .jplist-dd-panel{color:#0381bb}
+.jplist-drop-down:hover .jplist-dd-panel:after{color:#0381bb}
+.jplist-select{height:30px;box-shadow:0 0 1px #fff;background:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #dbdbdb;border-radius:3px;text-shadow:1px 1px 1px #fff;color:#27252a;float:left;margin:10px 10px 0 0;padding:5px;text-shadow:none}
+.jplist-ios-button{display:none}
+
+/*View Control*/
+.jplist-panel.panel-top {width:100%;height:44px;padding:7px;background-color:#000;margin-bottom:5px;
+-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
+.jplist-panel .jplist-views{float:left}
+.jplist-panel .jplist-views .jplist-view{float:left;height:30px;box-shadow:0 0 1px #fff;background:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #666;border-radius:3px;text-shadow:1px 1px 1px #fff;color:#27252a;cursor:pointer;width:32px}
+.jplist-panel .jplist-views .jplist-list-view{background:url('/assets/images/list-btn.png') no-repeat 50% 50%}
+.jplist-panel .jplist-views .jplist-grid-view{background:url('/assets/images/grid-btn-disabled.png') no-repeat 50% 50%}
+.jplist-panel .jplist-views .jplist-thumbs-view{background:url('/assets/images/thumbs-btn-disabled.png') no-repeat 50% 50%}
+.jplist-grid-view .jplist-panel .jplist-views .jplist-list-view{background:url('/assets/images/list-btn-disabled.png') no-repeat 50% 50%}
+.jplist-grid-view .jplist-panel .jplist-views .jplist-grid-view{background:url('/assets/images/grid-btn.png') no-repeat 50% 50%}
+.jplist-grid-view .jplist-panel .jplist-views .jplist-thumbs-view{background:url('/assets/images/thumbs-btn-disabled.png') no-repeat 50% 50%}
+.jplist-thumbs-view .jplist-panel .jplist-views .jplist-list-view{background:url('/assets/images/list-btn-disabled.png') no-repeat 50% 50%}
+.jplist-thumbs-view .jplist-panel .jplist-views .jplist-grid-view{background:url('/assets/images/grid-btn-disabled.png') no-repeat 50% 50%}
+.jplist-thumbs-view .jplist-panel .jplist-views .jplist-thumbs-view{background:url('/assets/images/thumbs-btn.png') no-repeat 50% 50%}
+
+/*textbox filter*/
+.jplist-panel .text-filter-box{height:30px;float:left;margin:0 10px 0 0}
+.jplist-panel .text-filter-box .jplist-icon{background:#e8eff9}
+.jplist-panel .text-filter-box .jplist-label{margin:0;border-right:0;background:#f1f1f1}
+.jplist-panel .text-filter-box button{margin:0;border-left:0;padding:0 10px}

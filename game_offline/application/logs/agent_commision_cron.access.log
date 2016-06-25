@@ -1,0 +1,549 @@
+[CRON2] 에이젼트 정산 작업의 배치를 시작합니다. ===========================================================>
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: optionFilename: /www/game_offline/application/controllers/batch/Batch_process.phpLine Number: 191
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 191	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: agent_settleFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: WarningMessage:  Invalid argument supplied for foreach()Filename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: deps1_apply_levelFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 476	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+Fatal error: Cannot access empty property in /www/game_offline/application/libraries/Affiliate_service.php on line 476
+
+A PHP Error was encountered
+
+Severity: WarningMessage:  Cannot modify header information - headers already sent by (output started at /www/game_offline/application/controllers/batch/Batch_process.php:167)Filename: /www/game_offline/system/core/Common.phpLine Number: 566
+
+Backtrace:
+			
+			
+			
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: ErrorMessage:  Cannot access empty propertyFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+			
+	[CRON2] 에이젼트 정산 작업의 배치를 시작합니다. ===========================================================>
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: optionFilename: /www/game_offline/application/controllers/batch/Batch_process.phpLine Number: 191
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 191	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: agent_settleFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: WarningMessage:  Invalid argument supplied for foreach()Filename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: deps1_apply_levelFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 476	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+Fatal error: Cannot access empty property in /www/game_offline/application/libraries/Affiliate_service.php on line 476
+
+A PHP Error was encountered
+
+Severity: WarningMessage:  Cannot modify header information - headers already sent by (output started at /www/game_offline/application/controllers/batch/Batch_process.php:167)Filename: /www/game_offline/system/core/Common.phpLine Number: 566
+
+Backtrace:
+			
+			
+			
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: ErrorMessage:  Cannot access empty propertyFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+			
+	[CRON2] 에이젼트 정산 작업의 배치를 시작합니다. ===========================================================>
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: optionFilename: /www/game_offline/application/controllers/batch/Batch_process.phpLine Number: 191
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 191	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: agent_settleFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: WarningMessage:  Invalid argument supplied for foreach()Filename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: deps1_apply_levelFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 476	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+Fatal error: Cannot access empty property in /www/game_offline/application/libraries/Affiliate_service.php on line 476
+
+A PHP Error was encountered
+
+Severity: WarningMessage:  Cannot modify header information - headers already sent by (output started at /www/game_offline/application/controllers/batch/Batch_process.php:167)Filename: /www/game_offline/system/core/Common.phpLine Number: 566
+
+Backtrace:
+			
+			
+			
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: ErrorMessage:  Cannot access empty propertyFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+			
+	[CRON2] 에이젼트 정산 작업의 배치를 시작합니다. ===========================================================>
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: optionFilename: /www/game_offline/application/controllers/batch/Batch_process.phpLine Number: 191
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 191	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: agent_settleFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: WarningMessage:  Invalid argument supplied for foreach()Filename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: deps1_apply_levelFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 476	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+Fatal error: Cannot access empty property in /www/game_offline/application/libraries/Affiliate_service.php on line 476
+
+A PHP Error was encountered
+
+Severity: WarningMessage:  Cannot modify header information - headers already sent by (output started at /www/game_offline/application/controllers/batch/Batch_process.php:167)Filename: /www/game_offline/system/core/Common.phpLine Number: 566
+
+Backtrace:
+			
+			
+			
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: ErrorMessage:  Cannot access empty propertyFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+			
+	[CRON2] 에이젼트 정산 작업의 배치를 시작합니다. ===========================================================>
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: optionFilename: /www/game_offline/application/controllers/batch/Batch_process.phpLine Number: 191
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 191	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	[정산 조회 기간] : 2016-01-11 00:00:00 ~ 2016-01-17 23:59:59<br/>[처리 결과] : 정산 받을 agent 가 존재하지 않습니다[CRON2] 에이젼트 정산 작업의 배치가 종료되었습니다. ===========================================================>
+[CRON2] 에이젼트 정산 작업의 배치를 시작합니다. ===========================================================>
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: optionFilename: /www/game_offline/application/controllers/batch/Batch_process.phpLine Number: 191
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 191	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: agent_settleFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: WarningMessage:  Invalid argument supplied for foreach()Filename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 453
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 453	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: deps1_apply_levelFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/libraries/Affiliate_service.php	Line: 476	Function: _error_handler
+		
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 192	Function: generate_weekly_agent_commission_record
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+Fatal error: Cannot access empty property in /www/game_offline/application/libraries/Affiliate_service.php on line 476
+
+A PHP Error was encountered
+
+Severity: WarningMessage:  Cannot modify header information - headers already sent by (output started at /www/game_offline/application/controllers/batch/Batch_process.php:167)Filename: /www/game_offline/system/core/Common.phpLine Number: 566
+
+Backtrace:
+			
+			
+			
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: ErrorMessage:  Cannot access empty propertyFilename: /www/game_offline/application/libraries/Affiliate_service.phpLine Number: 476
+
+Backtrace:
+			
+			
+			
+			
+	[CRON2] 에이젼트 정산 작업의 배치를 시작합니다. ===========================================================>
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: optionFilename: /www/game_offline/application/controllers/batch/Batch_process.phpLine Number: 191
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 191	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	[정산 조회 기간] : 2016-01-25 00:00:00 ~ 2016-01-31 23:59:59<br/>[처리 결과] : 정산 받을 agent 가 존재하지 않습니다[CRON2] 에이젼트 정산 작업의 배치가 종료되었습니다. ===========================================================>
+[CRON2] 에이젼트 정산 작업의 배치를 시작합니다. ===========================================================>
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined variable: optionFilename: /www/game_offline/application/controllers/batch/Batch_process.phpLine Number: 191
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Batch_process.php	Line: 191	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	[정산 조회 기간] : 2016-02-01 00:00:00 ~ 2016-02-07 23:59:59<br/>[처리 결과] : 정산 받을 agent 가 존재하지 않습니다[CRON2] 에이젼트 정산 작업의 배치가 종료되었습니다. ===========================================================>

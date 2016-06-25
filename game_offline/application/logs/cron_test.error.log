@@ -1,0 +1,2 @@
+PHP Fatal error:  Call to undefined method Cli_cron::ip_address() in /www/game_offline/application/controllers/batch/Cli_cron.php on line 15
+PHP Fatal error:  Call to undefined method Cli_cron::ip_address() in /www/game_offline/application/controllers/batch/Cli_cron.php on line 13

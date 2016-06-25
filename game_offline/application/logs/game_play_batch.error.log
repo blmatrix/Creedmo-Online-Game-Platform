@@ -1,0 +1,4 @@
+PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://entservices.totalegame.net?wsdl' : failed to load external entity "https://entservices.totalegame.net?wsdl"
+ in /www/game_offline/application/libraries/Microgame.php on line 32
+PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://entservices.totalegame.net?wsdl' : failed to load external entity "https://entservices.totalegame.net?wsdl"
+ in /www/game_offline/application/libraries/Microgame.php on line 32

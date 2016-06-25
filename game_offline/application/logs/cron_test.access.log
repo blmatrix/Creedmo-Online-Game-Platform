@@ -1,0 +1,180 @@
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined index: REMOTE_ADDRFilename: /www/game_offline/application/controllers/batch/Cli_cron.phpLine Number: 14
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Cli_cron.php	Line: 14	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+Fatal error: Call to undefined method Cli_cron::ip_address() in /www/game_offline/application/controllers/batch/Cli_cron.php on line 15
+
+A PHP Error was encountered
+
+Severity: WarningMessage:  Cannot modify header information - headers already sent by (output started at /www/game_offline/application/controllers/batch/Cli_cron.php:11)Filename: /www/game_offline/system/core/Common.phpLine Number: 566
+
+Backtrace:
+			
+			
+			
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: ErrorMessage:  Call to undefined method Cli_cron::ip_address()Filename: /www/game_offline/application/controllers/batch/Cli_cron.phpLine Number: 15
+
+Backtrace:
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined index: REMOTE_ADDRFilename: /www/game_offline/application/controllers/batch/Cli_cron.phpLine Number: 12
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Cli_cron.php	Line: 12	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	
+Fatal error: Call to undefined method Cli_cron::ip_address() in /www/game_offline/application/controllers/batch/Cli_cron.php on line 13
+
+A PHP Error was encountered
+
+Severity: WarningMessage:  Cannot modify header information - headers already sent by (output started at /www/game_offline/system/core/Exceptions.php:272)Filename: /www/game_offline/system/core/Common.phpLine Number: 566
+
+Backtrace:
+			
+			
+			
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: ErrorMessage:  Call to undefined method Cli_cron::ip_address()Filename: /www/game_offline/application/controllers/batch/Cli_cron.phpLine Number: 13
+
+Backtrace:
+			
+			
+			
+			
+	
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined index: REMOTE_ADDRFilename: /www/game_offline/application/controllers/batch/Cli_cron.phpLine Number: 12
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Cli_cron.php	Line: 12	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	Cli cron 테스트가 시작되었습니다
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined index: REMOTE_ADDRFilename: /www/game_offline/application/controllers/batch/Cli_cron.phpLine Number: 12
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Cli_cron.php	Line: 12	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	Cli cron 테스트가 시작되었습니다
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined index: REMOTE_ADDRFilename: /www/game_offline/application/controllers/batch/Cli_cron.phpLine Number: 12
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Cli_cron.php	Line: 12	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	Cli cron 테스트가 시작되었습니다
+
+A PHP Error was encountered
+
+Severity: NoticeMessage:  Undefined index: REMOTE_ADDRFilename: /www/game_offline/application/controllers/batch/Cli_cron.phpLine Number: 12
+
+Backtrace:
+			
+			
+			
+	File: /www/game_offline/application/controllers/batch/Cli_cron.php	Line: 12	Function: _error_handler
+		
+			
+			
+			
+	File: /www/game_offline/index.php	Line: 292	Function: require_once
+		
+	Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
+Cli cron 테스트가 시작되었습니다
